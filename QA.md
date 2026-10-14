@@ -1,0 +1,197 @@
+# Validation
+
+191 browser checks passed.
+
+- All images load
+- One H1
+- Internal navigation valid
+- All text ka
+- All attributes ka
+- Overflow ka 360
+- Overflow ka 390
+- Overflow ka 640
+- Overflow ka 768
+- Overflow ka 1024
+- Overflow ka 1440
+- Overflow ka 1920
+- Booking CTA ka 0
+- Booking CTA ka 1
+- Booking CTA ka 2
+- Pet preselect ka 2
+- Service preselect ka 2
+- Booking CTA ka 3
+- Pet preselect ka 3
+- Service preselect ka 3
+- Booking CTA ka 4
+- Pet preselect ka 4
+- Service preselect ka 4
+- Booking CTA ka 5
+- Pet preselect ka 5
+- Service preselect ka 5
+- Booking CTA ka 6
+- Pet preselect ka 6
+- Service preselect ka 6
+- Booking CTA ka 7
+- Pet preselect ka 7
+- Service preselect ka 7
+- Booking CTA ka 8
+- Pet preselect ka 8
+- Service preselect ka 8
+- Booking CTA ka 9
+- Pet preselect ka 9
+- Service preselect ka 9
+- Booking CTA ka 10
+- Pet preselect ka 10
+- Service preselect ka 10
+- Booking CTA ka 11
+- Pet preselect ka 11
+- Service preselect ka 11
+- Booking CTA ka 12
+- Pet preselect ka 12
+- Service preselect ka 12
+- Booking CTA ka 13
+- Booking CTA ka 14
+- Booking CTA ka 15
+- Gallery filter ka dog
+- Gallery filter ka cat
+- Gallery filter ka all
+- Gallery photo ka 0
+- Gallery focus ka 0
+- Gallery photo ka 1
+- Gallery focus ka 1
+- Gallery photo ka 2
+- Gallery focus ka 2
+- Gallery photo ka 3
+- Gallery focus ka 3
+- Gallery photo ka 4
+- Gallery focus ka 4
+- Gallery photo ka 5
+- Gallery focus ka 5
+- FAQ ka 0
+- FAQ ka 1
+- FAQ ka 2
+- FAQ ka 3
+- FAQ ka 4
+- FAQ ka 5
+- Call placeholder ka 0
+- No real phone fake ka 0
+- Call placeholder ka 1
+- No real phone fake ka 1
+- Social placeholder ka
+- All text en
+- All attributes en
+- Overflow en 360
+- Overflow en 390
+- Overflow en 640
+- Overflow en 768
+- Overflow en 1024
+- Overflow en 1440
+- Overflow en 1920
+- Booking CTA en 0
+- Booking CTA en 1
+- Booking CTA en 2
+- Pet preselect en 2
+- Service preselect en 2
+- Booking CTA en 3
+- Pet preselect en 3
+- Service preselect en 3
+- Booking CTA en 4
+- Pet preselect en 4
+- Service preselect en 4
+- Booking CTA en 5
+- Pet preselect en 5
+- Service preselect en 5
+- Booking CTA en 6
+- Pet preselect en 6
+- Service preselect en 6
+- Booking CTA en 7
+- Pet preselect en 7
+- Service preselect en 7
+- Booking CTA en 8
+- Pet preselect en 8
+- Service preselect en 8
+- Booking CTA en 9
+- Pet preselect en 9
+- Service preselect en 9
+- Booking CTA en 10
+- Pet preselect en 10
+- Service preselect en 10
+- Booking CTA en 11
+- Pet preselect en 11
+- Service preselect en 11
+- Booking CTA en 12
+- Pet preselect en 12
+- Service preselect en 12
+- Booking CTA en 13
+- Booking CTA en 14
+- Booking CTA en 15
+- Gallery filter en dog
+- Gallery filter en cat
+- Gallery filter en all
+- Gallery photo en 0
+- Gallery focus en 0
+- Gallery photo en 1
+- Gallery focus en 1
+- Gallery photo en 2
+- Gallery focus en 2
+- Gallery photo en 3
+- Gallery focus en 3
+- Gallery photo en 4
+- Gallery focus en 4
+- Gallery photo en 5
+- Gallery focus en 5
+- FAQ en 0
+- FAQ en 1
+- FAQ en 2
+- FAQ en 3
+- FAQ en 4
+- FAQ en 5
+- Call placeholder en 0
+- No real phone fake en 0
+- Call placeholder en 1
+- No real phone fake en 1
+- Social placeholder en
+- Language persisted
+- Service initially disabled
+- Dog services
+- Incompatible selection cleared
+- Cat services
+- Shared service preserved
+- Service translation preserves value
+- WhatsApp correct message
+- Owner required
+- Whitespace invalid
+- Phone invalid
+- Error translates
+- Pet name required
+- Pet type required
+- Service required
+- Past date invalid
+- Demo success
+- No data sent
+- Inputs clear
+- Reset focus
+- Service disabled after reset
+- Slider moves
+- Slider keyboard
+- Identical comparison photos
+- Filtered gallery sequence
+- Gallery arrow next
+- Gallery previous
+- Gallery wraps
+- Gallery swipe
+- Mobile menu opens
+- Mobile menu closes
+- Mobile Escape focus
+- Mobile CTA
+- Mobile call placeholder
+- 200 percent text ka
+- 200 percent text en
+- No external dependencies
+- Language only storage
+- No runtime errors
+- No fake telephone link
+- No JS submit disabled
+- Storage denial supported
+
+Browser QA used local file URLs with bundled Chromium. GitHub Pages deployment, actual WhatsApp message delivery and actual telephone calls have not been performed. WhatsApp message links were inspected without sending. Form performs frontend validation only.
